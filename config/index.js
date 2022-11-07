@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://ctripper-46795-default-rtdb.firebaseio.com';
